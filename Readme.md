@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **soumyagupta2068@gmail.com**
 
-- ⚡ Fun fact **Always willing to explore new places, meet new people and learning new technologies.**
+- ⚡ Fun fact **I'm Always willing to explore new places, meet new people and learn new technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
