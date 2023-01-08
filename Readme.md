@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Soumya</h1>
 <h3 align="center">A passionate Backend and Blockchain developer from India</h3>
 
+<img align="right" alt="Hello" width="400" src="https://i.giphy.com/media/12B39IawiNS7QI/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumya2411&label=Profile%20views&color=0e75b6&style=flat" alt="soumya2411" /> </p>
 
 <p align="left"> <a href="https://twitter.com/soumyag24" target="blank"><img src="https://img.shields.io/twitter/follow/soumyag24?logo=twitter&style=for-the-badge" alt="soumyag24" /></a> </p>
